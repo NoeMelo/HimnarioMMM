@@ -29,7 +29,8 @@ Achivos himnos .json
 ],
 "letra":"E. M. Bartlett",
 "inspiracion":"1 juan: 5:4",
-"musica":"E. M. Bartlett"
+"musica":"E. M. Bartlett",
+"imagen":"https://1.bp.blogspot.com/-hPEqER0PUro/YB82NxXvLUI/AAAAAAAACO8/jFcChAuhxsoSgj4Bd853JdGv8P_l_A0hgCLcBGAsYHQ/s2048/pexels-d%25C6%25B0%25C6%25A1ng-nh%25C3%25A2n-1123791.jpg"
 }
 ```
 Achivos coros .json
@@ -42,7 +43,8 @@ Achivos coros .json
 ],
 "letra":"",
 "inspiracion":"",
-"musica":""
+"musica":"",
+"image":"https://media.ldscdn.org/images/media-library/bible-images-the-life-of-jesus-christ/miracles/bible-pictures-pool-of-bethesda-1138571-print.jpg"
 }
 ```
 La etiqueta `<br/>` es un salto de linea en HTML
