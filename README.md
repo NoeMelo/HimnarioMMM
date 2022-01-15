@@ -1,7 +1,7 @@
 # HIMNARIO | MMM 
 Himnario del Movimiento Misionero Mundial es una colección de himnos, coros y cánticos espirituales. Alabanzas de ayer, hoy y siempre.
 
-- 📙 Visita el blog [HIMNARIO | MMM](https://himnariommm.blogspot.com/)
+- 📙 Visita el sitio web [HIMNARIO | MMM](https://himnariommm.blogspot.com/)
 - 👀 Cantidad de visitas ![Visitas](https://img.shields.io/badge/Views-%2B70K-informational)
 ## Estructura del proyecto 🛠
 Carpetas
