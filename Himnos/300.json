@@ -1,0 +1,14 @@
+{
+    "himno": 300,
+    "titulo": "Un canto de libertad",
+    "versos": [
+    {"1": "De Jesús el nombre mi labio nuca calle: <br/> El lirio es del valle, estrella del albor  <br/> Es el Rey de gloria, y en mi corazón  <br/> De su amor la historia  <br/> por siempre es mi canción."},
+    {"coro":"Hay un canto de libertad,  <br/> Y su melodía resuena:  <br/> Es un canto de libertad  <br/> que de paz el alma llena.  <br/> Es un canto de Libertad,  <br/> Proclamarlo Él me ordena;  <br/> Aleluya, aleluya, es un canto de libertad."},
+    {"2":"Redimióme Cristo de mi pecar funesto,  <br/> Y en mi boca a puesto un canto de loor.  <br/> Él es mi maestro, mi dueño y mi Señor,  <br/> Mi salvador, y el vuestro,  <br/> por su divino amor."},
+    {"3":"Ángeles no entonan de salvación el canto;  <br/> Tan solo es del santo, el salvo por su amor.  <br/> Antes al pecado serví en oscuridad,  <br/> Mas ahora he hallado en Él libtertad."}
+    ],
+    "letra": "C. P. Denyer",
+    "inspiracion": "",
+    "musica": "",
+    "imagen": "imagenes/himnos/300.jpg"
+}
