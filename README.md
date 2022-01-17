@@ -44,7 +44,7 @@ Achivos coros .json
 "letra":"",
 "inspiracion":"",
 "musica":"",
-"image":"https://media.ldscdn.org/images/media-library/bible-images-the-life-of-jesus-christ/miracles/bible-pictures-pool-of-bethesda-1138571-print.jpg"
+"imagen":"https://media.ldscdn.org/images/media-library/bible-images-the-life-of-jesus-christ/miracles/bible-pictures-pool-of-bethesda-1138571-print.jpg"
 }
 ```
 La etiqueta `<br/>` es un salto de linea en HTML
