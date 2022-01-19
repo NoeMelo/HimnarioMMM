@@ -1,0 +1,15 @@
+{
+    "himno": 8,
+    "titulo": "Ama el Pastor sus ovejas",
+    "versos": [
+    {"1": "Ama el Pastor sus ovejas <br/> Con un amor paternal; <br/> Ama el Pastor su rebaño, <br/> Con un amor sin igual, <br/> Ama el Pastor a las otras, <br/> Que descarriadas están, <br/> Y conmovido las busca <br/> Por dondequiera que van!"},
+    {"coro": "Por el desierto errabundas <br/> Vense sufrir penas mil; <br/> Y al encontrarlas en hombros, <br/> Llévalas tierno al redil."},
+    {"2": "Ama el Pastor sus corderos, <br/> Ámalos tierno el Pastor; <br/> A los que a veces, perdidos, <br/> Se oyen gemir de dolor; <br/> Ved al Pastor conmovido <br/> Por los collados vagar; <br/> Y los corderos en hombros, <br/> Vedlo llevando al hogar."},
+    {"3": "Ama las noventa y nueve, <br/> Que en el aprisco guardó; <br/> Ama las que, descarriadas, <br/> Por el desierto dejó, <br/> \"¡Oh, mis ovejas perdidas!\" <br/> Clama doliente el Pastor <br/> \"¿Quiénes vendrán en mi ayuda, <br/> Para salvarlas, Señor?\""},
+    {"4": "Son delicados tus pastos <br/> Y quietas tus aguas son; <br/> Henos aquí. ¡Oh Maestro!, <br/> Danos hoy tu comisión: <br/> Haznos obreros fervientes, <br/> Llénanos de un santo amor, <br/> Por las ovejas perdidas <br/> De tu redil, buen Señor."}
+    ],
+    "letra":"E.V.",
+    "inspiracion":"Juan 10",
+    "musica":"WM.J. Kirkpatrick",
+    "imagen":"/imagenes/himnos/8.jpg"
+}
