@@ -1,0 +1,14 @@
+{
+    "himno": 7,
+    "titulo":"A solas con Jesús",
+    "versos": [
+    {"1": "A solas al huerto yo voy,  <br/>  Cuando duerme aún la floresta;  <br/>  Y en quietud y paz con Jesús estoy  <br/>  Oyendo absorto allí su voz."},
+    {"CORO": "Él conmigo está, puedo oír su voz,  <br/>  Y que suyo dice seré;  <br/>  Y el encanto que hallo en Él allí,  <br/>  Con nadie tener podré."},
+    {"2": "Tan dulce es la voz del Señor,  <br/>  Que las aves guardan silencio,  <br/>  Y tan sólo se oye esa voz de amor,  <br/>  Que inmensa paz al alma da."},
+    {"3": "Con Él encantado yo estoy,  <br/>  Aunque en torno lleguen las sombras;  <br/>  Más me ordena a ir que a escuchar yo voy  <br/>  Su voz doquier la pena esté."}
+    ],
+    "letra": "C. Austín Miles",
+    "inspiracion": "Juan 20",
+    "musica": "Chas H. Gabriel",
+    "imagen":"/imagenes/himnos/7.jpg"
+  }
