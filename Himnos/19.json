@@ -1,0 +1,15 @@
+{
+    "himno": 19,
+    "titulo": "Cantaré la Maravilla",
+    "versos": [
+    {"1": "Cantaré la maravilla <br/> Que Jesús murió por mí; <br/> Como allá en el Calvario <br/> Dió su sangre carmesí."},
+    {"coro":"Cantaré la bella historia <br/> De Jesús mi Salvador, <br/> Y con santos en la gloria <br/> A Jesús daré loor."},
+    {"2":"Cristo vino a rescatarme, <br/> Vil, perdido me encontró; <br/> Con su mano fiel y tierna <br/> Al redil Él me llevó."},
+    {"3":"Mis heridas y dolores <br/> El Señor Jesús sanó; <br/> Del pecado y los temores <br/> Su poder me libertó."},
+    {"4": "En el río de la muerte <br/> El Señor me guardará: <br/> Es su amor tan fiel y fuerte, <br/> Que jamás me dejará."}
+    ],
+    "letra":"F.H. Rawley",
+    "inspiracion":"Salmos 17:7",
+    "musica":"P.P. Bilhoen",
+    "imagen":"/imagenes/himnos/19.jpg"
+}
