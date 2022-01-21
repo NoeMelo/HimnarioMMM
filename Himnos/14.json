@@ -1,0 +1,15 @@
+{
+    "himno": 14,
+    "titulo": "Con Cristo yo iré",
+    "versos": [
+    {"1": "Ya sea en el valle do el peligro esté, <br/> O que en la luz gloriosa de paz habite yo, <br/> A mi Jesús diré: \"Tu voluntad haré,\" <br/> Si Cristo me guía, doquiera yo iré."},
+    {"coro":"Si Cristo conmigo va, yo iré, <br/> Yo no temeré, con gozo iré, <br/> Conmigo va; es grato servir a Jesús, <br/> Llevar la cruz. <br/> Si Cristo conmigo va, yo iré."},
+    {"2":"Si al desierto quiere Jesús que vaya yo, <br/> Llevando buenas nuevas de santa salvación; <br/> Si allí, en dura lid, mi campo señaló, <br/> A Cristo yo sigo sin más dilación."},
+    {"3":"Aunque mi parte sea mi dura cruz llevar, <br/> Diré a mis hermanos también su gran poder; <br/> Contento quedaré, mi luz haré brillar, <br/> Testigo de Cristo, doquiera yo iré."},
+    {"4": "La voluntad de Cristo yo quiero obedecer, <br/> Pues en la Santa Biblia encuentro mi saber <br/> Y con su gran poder al mundo venceré, <br/> Si Él va conmigo, doquiera yo iré."}
+    ],
+    "letra":"H.C. Ball",
+    "inspiracion":"Mateo 28:20",
+    "musica":"Austin Miles",
+    "imagen":"/imagenes/himnos/14.jpg"
+}
