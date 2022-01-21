@@ -1,0 +1,13 @@
+{
+    "himno": 13,
+    "titulo": "Escuchad, Jesús nos dice",
+    "versos": [
+    {"1": "Escuchad, Jesús nos dice: <br/> \"¿Quiénes van a trabajar? <br/> Campos blancos hoy aguardan <br/> Que los vayan a segar\". <br/> Él nos llama cariñoso, <br/> Nos constriñe con su amor; <br/> ¿Quién responde a su llamada: <br/> \"Heme aquí, yo iré, Señor\"?"},
+    {"2":"Si por tierras o por mares <br/> No pudieras transitar,<br/> Puedes encontrar hambrientos <br/> En tu puerta que auxiliar; <br/> Si careces de riquezas. <br/> Lo que dio la viuda da; <br/> Si por el Señor lo dieres, <br/> Él te recompensará."},
+    {"3":"Si como elocuente apóstol <br/> No pudieres predicar, <br/> Puedes de Jesús decirles <br/> Cuánto al hombre supo amar; <br/> Si no logras que sus culpas <br/> Reconozca el pecador, <br/> Conducir los niños puedes <br/> Al benigno Salvador."}
+    ],
+    "letra":"Daniel March",
+    "inspiracion":"Mateo 9: 36-38",
+    "musica":"Louis Von Esch",
+    "imagen":"/imagenes/himnos/13.jpg"
+}
