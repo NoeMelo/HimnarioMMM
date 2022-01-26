@@ -1,0 +1,14 @@
+{
+    "himno": 299,
+    "titulo": "Maravillado Estoy",
+    "versos": [
+    {"1": "Maravillado estoy que Dios me amara, <br/> Tan pecador, cubierto de maldad. <br/> Que me hiciera andar en su presencia, <br/> Purificado por su santidad."},
+    {"coro":"Maravillado estoy que Dios me amara, <br/> Solo la cruz mi culpa borrará. <br/> Por fe es Jesús recibo la vida eterna  <br/> Por siempre moraré con Él allá."},
+    {"2":"Maravillado estoy que me recogiera, <br/> Vivir con Él por la eternidad. <br/> Participar de su divina gloria, <br/> Que me reserva en el celeste hogar."},
+    {"3":"Maravillado estoy que Dios salvara, <br/> A todos los que siguen su mandar. <br/> De aceptar al hijo, Jesucristo, <br/> Y en sus sendas siempre caminar."}
+    ],
+    "letra": "C. P. Denyer",
+    "inspiracion": "",
+    "musica": "",
+    "imagen": "imagenes/himnos/299.jpg"
+}
