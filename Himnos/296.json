@@ -1,0 +1,14 @@
+{
+    "himno": 296,
+    "titulo": "Cántico celeste tendrás",
+    "versos": [
+    {"1": "En tu ser un dulce canto gozarás <br/> de alegría cada día; <br/> Aunque pruebas y tristeza encontrarás, <br/> En tu ser un dulce canto gozarás."},
+    {"coro":"Cántico celeste en la noche tendrás, <br/> en tu corazón, aunque en aflicción. <br/> Fácil es cantar cuando reina la paz, <br/> pero en el dolor es mejor cantar."},
+    {"2":"Tus apuros nunca deben de quitar <br/> de tu alma, dulce calma. <br/> No te olvides que la noche acabará; <br/> De tu ser el dulce canto has de guardar."},
+    {"3":"Ya la noche pasará con su pavor; <br/> de tus penas, ya no temas. <br/> Hoy trabaja, ora, y sirve a tu Señor, <br/> pronto el sol alumbrará en tu corazón."}
+    ],
+    "letra": "Tr. H. Reza.",
+    "inspiracion": "",
+    "musica": "Ira Spanphill",
+    "imagen": "imagenes/himnos/296.jpg"
+}

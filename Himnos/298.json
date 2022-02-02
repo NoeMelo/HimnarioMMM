@@ -1,0 +1,14 @@
+{
+    "himno": 298,
+    "titulo": "El mundo no es mi hogar",
+    "versos": [
+    {"1": "El mundo no es mi hogar, <br/> Soy peregrino aqui; <br/> En la ciudad de luz, tendré tesoros si. <br/> Eterno resplandor por siempre gozaré, <br/> y la vida mundana jamás la desearé."},
+    {"coro":"Bendito Cristo, tú eres siempre fiel, <br/> la dicha que me das <br/> más dulce es que la miel <br/> la célica mansión, por siempre gozaré, <br/> // Y la vida mundana jamás desearé. //"},
+    {"2":"Un himno entonaré a Cristo el Salvador, <br/> 'Digno eres oh Señor de la gloria y honor.' <br/> La patria celestial por siempre gozaré, <br/> Y la vida mundana jamás desearé."},
+    {"3":"Ningún dolor habrá al lado de Jesús, <br/> quien derramó su sangre <br/> en la cruenta cruz, <br/> perfecta paz allá por siempre gozaré, <br/> Y la vida mundana jamás desearé."}
+    ],
+    "letra": "Tr. Por Roberto C. Savage",
+    "inspiracion": "",
+    "musica": "Albert E. Brumley",
+    "imagen": "imagenes/himnos/298.jpg"
+}
