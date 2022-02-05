@@ -1,0 +1,15 @@
+{
+	"himno": 29,
+	"titulo": "De mi tierno Salvador",
+	"versos": [
+	{"1": "De mi tierno Salvador <br/> Cantaré el inmenso amor. <br/> Gloriaréme en el favor de Jesús; <br/> De tinieblas me llamó, <br/> De cadenas me libró, <br/> De la muerte me salvó, mi Jesús."},
+	{"coro": "¡Mi Jesús! ¡Mi Jesús! <br/> ¡Cuan precioso es el nombre de Jesús! <br/> Con su sangre me limpió, <br/> De su gozo me llenó, <br/> De su vida me dotó, mi Jesús"},
+	{"2": "¡Oh, qué triste condición <br/> Del impío corazón! <br/> Me salvó de perdición, mi Jesús. <br/> Del pecado, el perdón, <br/> De la ruina, salvación: <br/> Por tristeza, bendición, dio Jesús."},
+	{"3": "En el mundo al vagar, <br/> Solitario sin hogar, <br/> No sabía que dulce paz da Jesús. <br/> Mas las lágrimas de ayer, <br/> Han pasado, y placer <br/> Ya comienzo a tener, en Jesús."},
+    {"4": "De lo falso, a su verdad, <br/> De lo inmundo, a santidad, <br/> Ya me trajo la bondad de Jesús. <br/> Hechos fuertes en virtud <br/> De su perennal salud; <br/> Himnos dad de gratitud a Jesús."}
+	],
+	"letra": "",
+	"inspiracion": "Filipenses 3:20,21",
+	"musica": "WM.J. Kirkpatric",
+	"imagen": "imagenes/himnos/29.jpg"
+}

@@ -1,0 +1,15 @@
+{
+	"himno": 22,
+	"titulo": "Cristo, El Rey de la gloria",
+	"versos": [
+	{"1": "Ved a Cristo, Rey de gloria, <br/> Es del mundo el vencedor; <br/> De la guerra vuelve invicto, <br/> Todos démosle loor."},
+	{"coro": "Coronadle, santos todos, <br/> Coronadle, Rey de reyes; <br/> Coronadle, santos todos, <br/> Coronad al Salvador."},
+	{"2": "Exaltado, sí, exaltado, <br/> Ricos triunfos trae Jesús; <br/> Entronadle allá en los cielos, <br/> En la refulgente luz."},
+	{"3": "Si los malos se burlaron <br/> Coronando al Salvador, <br/> Hoy los ángeles y santos <br/> Lo proclaman su Señor."},
+	{"4": "Escuchad sus alabanzas, <br/> Que se elevan hacia Él; <br/> Victorioso reina el Cristo, <br/> ¡Adorad a Emmanuel!"}
+	],
+	"letra": "",
+	"inspiracion": "Apoc. 20:4",
+	"musica": "Arr., por Geo.C.STebbins",
+	"imagen": "imagenes/himnos/22.jpg"
+}

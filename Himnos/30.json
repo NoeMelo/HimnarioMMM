@@ -1,0 +1,15 @@
+{
+	"himno": 30,
+	"titulo": "Dilo a Cristo",
+	"versos": [
+	{"1": "Cuando estés cansado y abatido, <br/> Dilo a Cristo, Dilo a Cristo; <br/> Si te sientes débil, confundido, <br/> Dilo a Cristo el Señor."},
+	{"coro": "Dilo a Cristo, Dilo a Cristo, <br/> Él es tu amigo más fiel; <br/> No hay otro amigo como Cristo, <br/> Dilo tan sólo a Él."},
+	{"2": "Cuando estés de tentación cercado <br/> Mira a Cristo, Mira a Cristo; <br/> Cuando rujan huestes de pecado, <br/> Mira a Cristo el Señor. <br/> CORO: Mira a Cristo,... etc."},
+	{"3": "Si se apartan otros de la senda, <br/> Sigue a Cristo, sigue a Cristo; <br/> Si acrecienta en torno la contienda <br/> Sigue a Cristo el Señor. <br/> CORO: Sigue a Cristo,... etc."},
+    {"4": "Cuando llegue la final jornada, <br/> Fía en Cristo, fía en Cristo; <br/> Te dará en el cielo franca entrada <br/> Fía en Cristo el Señor. <br/> CORO: Fía en Cristo,... etc."}
+	],
+	"letra": "",
+	"inspiracion": "",
+	"musica": "",
+	"imagen": "imagenes/himnos/30.jpg"
+}
