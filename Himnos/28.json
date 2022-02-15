@@ -1,0 +1,16 @@
+{
+	"himno": 28,
+	"titulo": "Comprado con sangre por Cristo",
+	"versos": [
+	{"1": "Comprado con sangre por Cristo, <br/> Con gozo al cielo yo voy; <br/> Librado por gracia infinita, <br/> Ya sé que su hijo yo soy."},
+	{"coro": "Lo sé.... Lo sé <br/> comprado con sangre yo soy; <br/> Lo sé.... Lo sé <br/> Con Cristo al cielo yo voy."},
+	{"2": "Soy libre de pena y culpa, <br/> Su gozo Él me hace sentir; <br/> Él llena de gracia mi alma, <br/> Con Él es tan dulce vivir."},
+	{"3": "En Cristo yo siempre medito <br/> Y nunca le puedo olvidar; <br/> Callar sus favores no quiero <br/> Voy siempre a Jesús alabar."},
+    {"4": "Seguro sé que la belleza <br/> Del gran Rey yo voy a mirar. <br/> Ahora me guarda y me guía, <br/> Y siempre me quiere ayudar."},
+    {"5":"Yo sé que me espera corona, <br/> La cual a los fieles dará <br/> Jesús Salvador; en el cielo <br/> Mi alma con Él estará"}
+	],
+	"letra": "Fanny J. Crosby",
+	"inspiracion": "Salmos 27:4",
+	"musica": "Willam.J.Kirkpatrick",
+	"imagen": "imagenes/himnos/28.jpg"
+}
