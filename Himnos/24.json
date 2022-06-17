@@ -1,0 +1,13 @@
+{
+	"himno": 24,
+	"titulo": "Canta, ¡Oh buen cristiano!",
+	"versos": [
+	{"1": "Canta, oh buen cristiano, <br/> Dulce será cantar, <br/> Hace el camino llano, Libra el pesar. <br/> Canta en las noches tristes, <br/> Canta en el sol y en luz; <br/> El mal así resistes, canta de Jesús."},
+	{"2": "¡Canta, oh buen cristiano! <br/> Templa tu corazón; <br/> Alza a tu Soberano, Tu feliz canción. <br/> Siempre está lleno el mundo <br/> De endechas y dolor; <br/> Canta el amor profundo, De tu Salvador."},
+	{"3": "Canta, oh buen cristiano, <br/> Dios tu socorro es; <br/> Él sostendrá tu mano, Hasta la vejez. <br/> ¿Sabes que al diablo invitas <br/> cuando medroso estás? <br/> Dios quitará tus penas, Si cantando vas."}
+	],
+	"letra": "Epigmenio Velasco",
+	"inspiracion": "Mateo 26:30",
+	"musica": "Lowel Mason",
+	"imagen": "imagenes/himnos/24.jpg"
+}

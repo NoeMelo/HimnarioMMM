@@ -1,0 +1,14 @@
+{
+	"himno": 26,
+	"titulo": "Cristo me ama",
+	"versos": [
+	{"1": "Cristo me ama, bien lo sé, <br/> Su Palabra me hace ver, <br/> Que los niños son de Aquel, <br/> Quien es nuestro amigo fiel."},
+	{"coro": "Cristo me ama, Cristo me ama, <br/> Cristo me ama, la Biblia dice así."},
+	{"2": "Cristo me ama, pues murió, <br/> Y el cielo me abrió; <br/> Él mis culpas quitará, <br/> Y la entrada me dará."},
+	{"3": "Cristo me ama, es verdad, <br/> Y me cuida en su bondad; <br/> Cuando muera, si soy fiel, <br/> Viviré allá con Él."}
+	],
+	"letra": "",
+	"inspiracion": "Juan 17:24",
+	"musica": "William B. Bradbury",
+	"imagen": "imagenes/himnos/26.jpg"
+}

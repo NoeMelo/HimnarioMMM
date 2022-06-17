@@ -1,0 +1,14 @@
+{
+	"himno": 21,
+	"titulo": "Con voz benigna",
+	"versos": [
+	{"1": "Con voz benigna te llama Jesús, <br/> Invitación de puro amor; <br/> ¿Por qué le dejas en vano llamar? <br/> ¿Sordo serás, pecador?"},
+	{"coro": "Hoy te convida, hoy te convida, <br/> Voz bendecida, <br/> benigna convídate hoy."},
+	{"2": "A los cansados convida Jesús; <br/> Con compasión mira el dolor; <br/> Tráele tu carga, te bendecirá, <br/> Te ayudará, el Señor."},
+	{"3": "Siempre aguardando contempla a Jesús. <br/> ¡Tanto esperar!, ¡con tanto amor! <br/> Hasta sus plantas ven, mísero, y trae <br/> Tu tentación, tu dolor."}
+	],
+	"letra": "Fanny J. Crosby",
+	"inspiracion": "Juan 1:43-51",
+	"musica": "Geo.C.Stebbins",
+	"imagen": "imagenes/himnos/21.jpg"
+}
