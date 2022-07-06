@@ -1,0 +1,15 @@
+{
+	"himno": 36,
+	"titulo": "Dejo el mundo y siguo a Cristo",
+	"versos": [
+	{"1": "Dejo el mundo y sigo a Cristo <br/> Porque el mundo pasará, <br/> Mas su amor, amor bendito, <br/> Por los siglos durará."},
+	{"coro": "¡Oh, qué gran misericordia! <br/> ¡Oh, de amor sublime don! <br/> ¡Plenitud de vida eterna, <br/> Prenda viva de perdón!"},
+	{"2": "Dejo el mundo y sigo a Cristo <br/> Paz y gozo en Él tendré, <br/> Y al mirar que va conmigo, <br/> Siempre salvo cantaré."},
+	{"3": "Dejo el mundo y sigo a Cristo <br/> Su sonrisa quiero ver, <br/> Como luz que en mi camino <br/> Haga aquí resplandecer."},
+    {"4": "Dejo el mundo y sigo a Cristo <br/> Acogiéndome a su cruz; <br/> ¡Y después ir a mirarle <br/> Cara a cara en plena luz!"}
+	],
+	"letra": "Fanny J. Crosby",
+	"inspiracion": "2 Pedro 3: 8 - 17",
+	"musica": "John R. Sweney",
+	"imagen": "imagenes/himnos/36.jpg"
+}

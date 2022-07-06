@@ -1,0 +1,14 @@
+{
+	"himno": 41,
+	"titulo": "En los negocios del Rey",
+	"versos": [
+	{"1": "Soy peregrino aquí, mi hogar lejano está <br/> En la mansión de luz, eterna paz y amor, <br/> Embajador yo soy del reino celestial <br/> En los negocios de mi Rey."},
+	{"coro": "Este mensaje fiel oíd, <br/> Que dijo ya celeste voz: <br/> \"Reconciliaos ya,\" dice el Señor y Rey, <br/> ¡Reconciliaos hoy con Dios!"},
+	{"2": "Que del pecado vil arrepentidos ya, <br/> Han de reinar con Él los que obedientes son, <br/> Es el mensaje fiel que debo proclamar, <br/> En los negocios de mi Rey."},
+	{"3": "Mi hogar más bello es, que el valle de Sarón, <br/> Eterno gozo y paz reinan por siempre en Él <br/> Y allí Jesús dará eterna habitación, <br/> Es el mensaje de mi Rey."}
+	],
+	"letra": "E. Taylor Cassel",
+	"inspiracion": "2 Co. 5: 20",
+	"musica": "Flora. H. Cassel",
+	"imagen": "imagenes/himnos/41.jpg"
+}

@@ -1,0 +1,14 @@
+{
+	"himno": 33,
+	"titulo": "Dame la fe de mi Jesús",
+	"versos": [
+	{"1": "Dame la fe de mi Jesús, <br/> La fe bendita del Señor, <br/> Que al afligido da la paz <br/> La fe que salva de temor; <br/> Fe de los santos galardón, <br/> Gloriosa fe de salvación."},
+	{"2": "Dame la fe que trae poder, <br/> De los demonios vencedor; <br/> Que fieras no podrán vencer, <br/> Ni dominarla el opresor; <br/> Que pueda hogueras soportar, <br/> Premio de mártir alcanzar."},
+	{"3": "Dame la fe que vencerá, <br/> En todo tiempo, mi Jesús; <br/> Dame la fe que fijará <br/> Mi vista en tu divina cruz; <br/> Que puede proclamar tu amor, <br/> Tu voluntad hacer, Señor."},
+    {"4": "Dame la fe que da el valor, <br/> Que ayuda al débil a triunfar, <br/> Que todo sufre con amor, <br/> Y puede en el dolor cantar; <br/> Que puede el cielo escalar, <br/> O aquí con Cristo caminar."}
+	],
+	"letra": "V. Mendoza, Tr",
+	"inspiracion": "Hebreos 11: 30-40",
+	"musica": "Adaptado por: J. G. Walton",
+	"imagen": "imagenes/himnos/33.jpg"
+}
