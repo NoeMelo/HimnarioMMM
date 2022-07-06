@@ -1,0 +1,15 @@
+{
+	"himno": 40,
+	"titulo": "En la cruz",
+	"versos": [
+	{"1": "Me hirió el pecado, fui a Jesús, <br/> Mostréle mi dolor; <br/> Perdido, errante, vi su luz, <br/> Bendíjome en su amor."},
+	{"coro": "En la cruz, en la cruz, <br/> Do primero vi la luz, <br/> Y las manchas de mi alma yo lavé; <br/> Fue allí por fe do vi a Jesús, <br/> Y siempre feliz con Él seré."},
+	{"2": "Sobre una cruz, mi buen Señor, <br/> Su sangre derramó, <br/> Por este pobre pecador <br/> A quien así salvó."},
+	{"3": "Venció la muerte con poder, <br/> Y al cielo se exaltó; <br/> Confiar en Él es mi placer, <br/> Morir no temo yo."},
+    {"4": "Aunque Él se fue solo no estoy, <br/> Mandó al Consolador, <br/> Divino Espíritu, que hoy <br/> Me da perfecto amor."}
+	],
+	"letra": "Pedro Grado",
+	"inspiracion": "Juan 3: 14 - 15",
+	"musica": "R. E. Hudson",
+	"imagen": "imagenes/himnos/40.jpg"
+}

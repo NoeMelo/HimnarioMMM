@@ -1,0 +1,13 @@
+{
+	"himno": 32,
+	"titulo": "Dulce Oración",
+	"versos": [
+	{"1": "Dulce oración, dulce oración, <br/> De toda influencia mundanal <br/> Elevas tú mi corazón, <br/> Al tierno Padre celestial. <br/> ¡Oh, cuántas veces tuve en ti <br/> Auxilio en ruda tentación, <br/> Y cuántos bienes recibí, <br/> Mediante ti, dulce oración!"},
+	{"2": "Dulce oración, dulce oración, <br/> Al trono excelso de bondad <br/> Tú llevarás mi petición <br/> A Dios, que escucha con piedad; <br/> Por fe espero recibir <br/> La gran divina bendición. <br/> Y siempre a mi Señor servir <br/> Por tu virtud, dulce oración."},
+	{"3": "Dulce oración, dulce oración, <br/> Que aliento y gozo al alma das; <br/> En esta tierra de aflicción <br/> Consuelo siempre me serás. <br/> Hasta el momento en que veré <br/> Francas las puertas de Sión, <br/> Entonces me despediré <br/> Feliz, de ti, dulce oración."}
+	],
+	"letra": "Tr., J. B Cabrera.",
+	"inspiracion": "Hechos 4:31",
+	"musica": "William B. Bradbury",
+	"imagen": "imagenes/himnos/32.jpg"
+}

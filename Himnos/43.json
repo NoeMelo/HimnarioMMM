@@ -1,0 +1,16 @@
+{
+	"himno": 43,
+	"titulo": "Entera Consagraciòn",
+	"versos": [
+	{"1": "Que mi vida entera esté <br/> Consagrada a ti Señor; <br/> Que a mis manos pueda guiar <br/> El impulso de tu amor."},
+	{"coro": "Lávame en tu sangre, Salvador, <br/> Límpiame de toda mi maldad; <br/> Traigo a ti mi vida, para ser Señor, <br/> ¡Tuya por la eternidad!"},
+	{"2": "Que mis pies tan sólo en pos <br/> De lo santo puedan ir, <br/> Y que a ti, Señor, mi voz <br/> Se complazca en bendecir."},
+	{"3": "Que mi tiempo todo esté <br/> Consagrado a tu loor, <br/> Que mis labios al hablar <br/> Hablen sólo de tu amor."},
+    {"4": "Toma, ¡Oh Dios!, mi voluntad, <br/> Y hazla tuya, nada más; <br/> Toma, sí, mi corazón <br/> Por tu trono lo tendrás."},
+    {"5": "Toma tú mi amor, que hoy <br/> A tus pies vengo a poner; <br/> ¡Toma todo lo que soy, <br/> todo tuyo quiero ser!"}
+	],
+	"letra": "Frances R. Havergal",
+	"inspiracion": "Salmos 17: 7",
+	"musica": "William J. Kirkpatrick",
+	"imagen": "imagenes/himnos/43.jpg"
+}
