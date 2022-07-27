@@ -1,0 +1,15 @@
+{
+	"himno": 39,
+	"titulo": "El amor de Jesucristo",
+	"versos": [
+	{"1": "Del santo Amor de Cristo que no tendrá su igual, <br/> De su divina gracia, sublime y eternal; <br/> De su misericordia, inmensa como el mar, <br/> Y cual los cielos alta, con gozo he de cantar."},
+	{"coro": "El amor de mi Señor, <br/> Grande y dulce es más y más; <br/> Rico e inefable, nada es comparable, <br/> Al amor de mi Jesús."},
+	{"2": "Cuando Él vivió en el mundo la gente lo siguió, <br/> Y todas sus angustias en Él depositó; <br/> Entonces, bondadoso, su amor brotó en raudal, <br/> Incontenible, inmenso, sanando todo mal."},
+	{"3": "El puso en las pupilas del ciego nueva luz, <br/> La eterna luz de vida que centellea en la cruz; <br/> Y dio a las almas todas la gloria de su ser, <br/> Al impartir su gracia, su Espíritu y poder."},
+    {"4": "Su amor, por las edades del mundo es el fanal, <br/> Que marca esplendoroso la senda del ideal; <br/> Y el paso de los años, la hará más dulce y más, <br/> Precioso al dar al alma su incomparable paz."}
+	],
+	"letra": "V. Mendoza",
+	"inspiracion": "Efesios 3: 19",
+	"musica": "Mrs. C.H. Morris",
+	"imagen": "imagenes/himnos/39.jpg"
+}
