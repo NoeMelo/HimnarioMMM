@@ -1,0 +1,14 @@
+{
+	"himno": 34,
+	"titulo": "¡Despertad, Despertad, oh Cristianos!",
+	"versos": [
+	{"1": "¡Despertad, despertad, oh cristianos! <br/> Vuestro sueño funesto dejad <br/> Que el cruel enemigo os acecha <br/> Y cautivos os quiere llevar. <br/> ¡Despertad! las tinieblas pasaron, <br/> De la noche no sois hijos ya, <br/> Que lo sois de la luz y del día <br/> Y tenéis el deber de luchar."},
+	{"2": "Despertad y bruñid vuestras armas, <br/> Vuestros lomos ceñid de verdad <br/> Y calzad vuestros pies, aprestados, <br/> Con el grato Evangelio de paz. <br/> Basta ya de profundas tinieblas, <br/> Basta ya de pereza mortal; <br/> Revestid, revestid vuestro pecho <br/> Con la cota de fe y caridad."},
+	{"3": "La gloriosa armadura de Cristo <br/> Acudid con anhelo a tomar, <br/> Confiando en que el dardo enemigo <br/> No la puede romper, ni pasar. <br/> ¡Oh cristianos, antorchas del mundo! <br/> De esperanza el yelmo tomad, <br/> Embrazad el escudo de la fe <br/> Y sin miedo corred a luchar"},
+	{"4": "No temáis, pues, de Dios revestidos, <br/> ¿Qué enemigo venceros podrá, <br/> Si tomáis por espada la Biblia, <br/> La Palabra del Dios de verdad? <br/> En la cruz hallaréis la bandera, <br/> En Jesús hallaréis Capitán, <br/> En el cielo obtendréis la corona, <br/> ¡A luchar, a luchar, a luchar!"}
+	],
+	"letra": "P. Castro",
+	"inspiracion": "",
+	"musica": "Colección Española",
+	"imagen": "imagenes/himnos/34.jpg"
+}

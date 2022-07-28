@@ -1,0 +1,14 @@
+{
+	"himno": 38,
+	"titulo": "Estrellas en mi corona",
+	"versos": [
+	{"1": "Sin cesar siempre pienso en la tierra mejor, <br/> Do al ponerse mi sol llegaré, <br/> Y al hallarme en los cielos con Cristo el Señor, <br/> ¿Mi corona de estrellas tendré?"},
+	{"coro": "¿Mi corona tendrá sus estrellas allí <br/> en las almas que yo rescaté? <br/> Cuando el sol ya decline <br/> Y me encuentre yo en ti, <br/> ¿Mi corona de estrellas tendré?"},
+	{"2": "De la fuerza de Dios esperando el poder, <br/> Trabajar quiero siempre y salvar <br/> A las almas, y al fin, cual estrellas saber <br/> Que en mis sienes irán a brillar."},
+	{"3": "¡Oh!, qué gozo en los cielos será para mí <br/> Vivas gemas poner a sus pies, <br/> Y tener en mi frente corona que allí, <br/> ¡Ornen joyas de tal brillantez!"}
+	],
+	"letra": "V. Mendoza",
+	"inspiracion": "Apocalipsis 2: 10",
+	"musica": "Jno. R. Sweney",
+	"imagen": "imagenes/himnos/38.jpg"
+}

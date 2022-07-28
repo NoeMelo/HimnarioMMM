@@ -1,0 +1,15 @@
+{
+	"himno": 42,
+	"titulo": "El Consolador ha venido",
+	"versos": [
+	{"1": "Doquier el hombre esté, la nueva proclamad, <br/> Doquier haya aflicción, miserias y dolor; <br/> Cristianos, anunciad que el Padre nos envió, <br/> El fiel Consolador."},
+	{"coro": "El fiel Consolador, el fiel Consolador, <br/> Que Dios nos prometió, al mundo descendió, <br/> Doquier el hombre esté, decid que vino ya, <br/> El fiel Consolador."},
+	{"2": "La noche ya pasó, y al fin brilló la luz <br/> Que vino a disipar las sombras del terror, <br/> Así del alma fue aurora celestial, <br/> El fiel Consolador."},
+	{"3": "Él es quien da salud, y plena libertad, <br/> A los que encadenó el fiero tentador; <br/> Los rotos hierros hoy dirán que vino ya <br/> El fiel Consolador."},
+    {"4": "¡Oh grande eterno amor!, mi lengua débil es <br/> Para poder hablar del don que recibí, <br/> Al renovar en mí, la imagen celestial, <br/> El fiel Consolador."}
+	],
+	"letra": "V. Mendoza",
+	"inspiracion": "Juan 14: 16,17",
+	"musica": "William J. Kirkpatrick",
+	"imagen": "imagenes/himnos/42.jpg"
+}
