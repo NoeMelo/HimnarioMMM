@@ -1,0 +1,14 @@
+{
+    "himno": 10,
+    "titulo": "Brilla en tu Lugar",
+    "versos": [
+    {"1": "Nunca esperes el momento <br/> de una grande acción, <br/> Ni que pueda lejos ir tu luz; <br/> De la vida a los pequeños actos de atención, <br/> Brilla en el sitio donde estés."},
+    {"coro":"Brilla en el sitio donde estés, <br/> Brilla en el sitio donde estés; <br/> Puedes con tu luz algún perdido rescatar, <br/> Brilla en el sitio donde estés."},
+    {"2":"Puedes en tu cielo alguna nube disipar, <br/> Haz a un lado tu egoísmo cruel; <br/> Aunque sólo un corazón pudieres consolar, <br/> Brilla en el sitio donde estés."},
+    {"3":"Puede tu talento alguna cosa descubrir <br/> Do tu luz podrá resplandecer; <br/> De tu mano el pan de vida puede aquí venir, <br/> Brilla en el sitio donde estés."}
+    ],
+    "letra":"Ida Duley Ogdon.",
+    "inspiracion":"Mateo 5:14",
+    "musica":"Chas. H. Gabriel",
+    "imagen":"/imagenes/himnos/10.jpg"
+}
