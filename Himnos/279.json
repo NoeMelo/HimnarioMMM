@@ -1,0 +1,14 @@
+{
+    "himno": 279,
+    "titulo": "Abba Padre, Te adoramos",
+    "versos": [
+    {"1": "¡Abba, Padre!  te adoramos<br/>En el nombre de Jesús.<br/>Dios y Padre te llamamos,<br/>Hechos hijos de la luz.<br/>Ya del juicio libertados<br/>Por la sangre del Señor,<br/>Y por Él reconciliados,<br/>Disfrutamos de tu amor."},
+	{"2": "Pródigos un tiempo fuimos,<br/>Alejados del hogar,<br/>Mas tu voz de amor oímos,<br/>Pues quisístenos llamar.<br/>Por Jesús nos perdonaste<br/>Y nos allegaste a Ti,<br/>Nos besaste, y nos sentaste<br/>En tu comunión aquí."},
+	{"3": "Por tu mano revestidos<br/>Del ropaje de salud,<br/>En tu casa recogidos<br/>Por tu gran solicitud;<br/>Redimidos y lavados<br/>Por la sangre de Jesús,<br/>Restaurados, bien amados,<br/>Hechos hijos de la luz."},
+	{"4": "¡Abba!  Todos te alabamos,<br/>Muy contentos de saber<br/>Que los bienes que gozamos<br/>Claro dan a comprender<br/>Que Tú encuentras complacencia<br/>En mostrarnos tu favor,<br/>Y por tal benevolencia<br/>Te alabamos con fervor."}
+	],
+    "letra": "James G. Deck",
+    "inspiracion": "Lucas 15:23-24",
+    "musica": "John Zundel",
+    "imagen": "imagenes/himnos/279.jpg"
+}
