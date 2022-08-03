@@ -1,0 +1,14 @@
+{
+    "himno": 272,
+    "titulo": "Con cánticos Señor",
+    "versos": [
+	{"1": "Con cánticos, Señor,mi corazón y<br/>voz<br/>Te adoran con fervor, ¡Oh Trino<br/>Santo Dios!<br/>En tu mansión yo te veré,<br/>Y paz eterna gozaré."},
+	{"2": "Tu mano paternal trazó mi senda<br/>aquí;<br/>Mis pados, cada cual; velados son<br/>por ti.<br/>En tu mansión yo te veré,<br/>Y paz eterna gozaré."},
+	{"3": "Innumerables son los bienes; y sin<br/>par.<br/>Que por tu comprasión recibo sin<br/>cesar.<br/>En tu mansión yo te veré,<br/>Y paz eterna gozaré."},
+	{"4": "Tú eres; ¡oh Señor! mi sumo, todo<br/>bien;<br/>Mil lenguas tu amor cantando<br/>siempre estén.<br/>En tu mansión yo te veré,<br/>Y paz eterna gozaré."}
+	],
+    "letra": "James John Cummis",
+    "inspiracion": "Salmos 145:5",
+    "musica": "John Darwall",
+    "imagen": "imagenes/himnos/272.jpg"
+}
