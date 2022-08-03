@@ -1,0 +1,14 @@
+{
+    "himno": 270,
+    "titulo": "Cristo ya ha recusitado",
+    "versos": [
+	{"1": "Cristo ya ha resucitado, ¡Aleluya!<br/>De la muerte ha triunfado, ¡Aleluya!<br/>El poder de su virtud, ¡Aleluya!<br/>Cautivó la esclavitud, ¡Aleluya!"},
+	{"2": "El que al polvo se humilló, ¡Aleluya!<br/>Vencedor se levantó, ¡Aleluya!<br/>Y cantamos en verdad, !Aleluya!<br/>Su gloriosa majestad.!Aleluya!"},
+	{"3": "El que a muerte se entregó,<br/>¡Aleluya!<br/>El que así nos redimió, ¡Aleluya!<br/>Hoy en gloria celestial, !Aleluya!<br/>Reina en vida triunfal, ¡Aleluya!"},
+	{"4": "Cristo nuestro Salvador, ¡Aleluya!<br/>De la muerte vencedor, ¡Aleluya!<br/>Pronto vamos sin cesar, ¡Aleluya!<br/>Tus loores a cantar, ¡Aleluya!"}	
+	],
+    "letra": "Charles Wesley",
+    "inspiracion": "",
+    "musica": "N. Carey",
+    "imagen": "imagenes/himnos/270.jpg"
+}
