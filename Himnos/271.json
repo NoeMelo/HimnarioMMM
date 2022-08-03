@@ -1,0 +1,14 @@
+{
+    "himno": 271,
+    "titulo": "Meditad que has perdido",
+    "versos": [
+	{"1": "Medita que has perdido<br/>Por siempre un año más,<br/>Un año de tu vida<br/>Que nunca volverá.<br/>Sus horas han marchado,<br/>Llevándose al volar<br/>Las huellas del pecado<br/>Que te han de condenar."},
+	{"coro": "Veloz el año pasa;<br/>Quizás tu última ocasión;<br/>Sé salvo mientras dura<br/>El día de salvación."},
+	{"2": "Medita que pasaron<br/>Al mundo eternal<br/>Mil seres que empezaron<br/>Contigo el año actual.<br/>Son almas que abandonan<br/>La humana vanidad;<br/>Son voces que pregonan<br/>Cercana eternidad."},
+	{"3": "Medita que el Maestro,<br/>Brindando salvación,<br/>Mil veces a la puerta<br/>Llamó del corazón.<br/>Quizás la voz que hubiste<br/>Así de rechazar,<br/>Por vez postrera insiste,<br/>Cansada de llamar."}
+	],
+    "letra": "Luis de Wirtz",
+    "inspiracion": "",
+    "musica": "Herbert HowardBooth",
+    "imagen": "imagenes/himnos/271.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "himno": 276,
+    "titulo": "Señor Jehová Omnipotente Dios",
+    "versos": [
+	{"1": "Señor Jehová, Omnipotente Dios,<br/>Tú que los astros riges con poder,<br/>Oye claramente nuestra humilde voz,<br/>Nuestra caanción hoy dignate<br/>Atender."},
+	{"2": "Eterno Padre, nuestro corazón,<br/>A Ti profesa un inefable amor;<br/>Hazte presente en tu pueblo hoy;<br/>Tiéndenos, pues, tu brazo<br/>Protector."},
+	{"3": "A nuestra patria da tu bendición;<br/>Enséñanos tus leyes a guardar;<br/>Alumbra la conciencia y la razón;<br/>Domina siempre Tú en todo hogar."},
+	{"4": "Defiéndenos del enemigo cruel;<br/>Concede a nuestras faltas<br/>Corrección;<br/>Nuestro servicio sea siempre fiel;<br/>Rodéanos de tu gran protección.<br/>Amén."}
+	],
+    "letra": "Daniel C. Roberts",
+    "inspiracion": "Hechos 7:32",
+    "musica": "George W. Warren",
+    "imagen": "imagenes/himnos/276.jpg"
+}

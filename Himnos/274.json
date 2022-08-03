@@ -1,0 +1,15 @@
+{
+    "himno": 274,
+    "titulo": "Me guía Él",
+    "versos": [
+	{"1": "Me guia El con cuánto amor;<br/>Me guía siempre mi Señor;<br/>En todo tiempo puedo ver<br/>Con cuanto amor me guía El."},
+	{"Coro":  "Me guía El; me guía El.<br/>Con cuánto amor me guía El;<br/>No abrigo dudas ni temor,<br/>Pues me conduce el buen Pastor."},
+	{"2": "En el abismo del dolor<br/>O donde intenso brilla el sol,<br/>En dulce paz o en lucha cruel,<br/>Con gran bondad me guía Él."},
+	{"3": "La mano quiero yo tomar<br/>De Cristo y nunca vacilar,<br/>Cumpliendo con fidelidad<br/>Su sabia y santa voluntad."},
+	{"4": "Y la carrera al terminar,<br/>El alba eterna al vislumbrar,<br/>No habrá ni dudas ni temor,<br/>Pues me guiará mi buen Pastor."}
+	],
+    "letra": "Joseph Henry Gilmore",
+    "inspiracion": "Salmos 23",
+    "musica": "William B. Bradbury",
+    "imagen": "imagenes/himnos/274.jpg"
+}

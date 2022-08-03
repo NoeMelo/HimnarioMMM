@@ -1,0 +1,15 @@
+{
+    "himno": 269,
+    "titulo": "Oid oid lo que nos manda",
+    "versos": [
+	{"1": "Oíd, oíd, lo que nos manda el<br/>Salvador:<br/>Marchad, marchad, y proclamad<br/>mi amor,<br/>Porque he aquí Yo con vosotros<br/>estaré;<br/>Los días todos hasta el fin os<br/>guardaré"},
+	{"coro": "Id, pues, por el mundo.<br/>Id, pues, y predicad el evangelio.<br/>Id, pues; va adelante<br/>El todopoderoso Salvador.<br/>¡Gloria, gloria, aleluya a Jesús!<br/>¡Gloria, gloria, aleluya a Jesús!<br/>Nuestras almas Él salvó,<br/>Nuestras manchas Él lavó.<br/>Proclamemos pues a todos su amor."},
+	{"2": "Pensad, pensad, la condición del pecador.<br/>¡Qué triste es!  ¡qué lleno de dolor!<br/>Sin luz, sin paz, camina a la eternidad<br/>Y no conoce el gran peligro en que él esta."},
+	{"3": "Salid, salid, embajadores del Señor.<br/>Buscad, buscad al pobre pecador;<br/>Aprovechad el tiempo que el Señor nos da,<br/>Pues pronto el día de salvación se acabará."},
+	{"4": "Mirad, mirad, la hora presto llegará.<br/>Jesús vendrá su reino a disfrutar;<br/>De mar a mar habrá prosperidad y paz;<br/>Sus alabanzas cantará la humanidad."}
+	],
+    "letra": "Fanny Crosby",
+    "inspiracion": "Marcos 16:15",
+    "musica": "J. R. Sweney",
+    "imagen": "imagenes/himnos/269.jpg"
+}

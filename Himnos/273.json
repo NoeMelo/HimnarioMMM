@@ -1,0 +1,15 @@
+{{
+    "himno": 273,
+    "titulo": "Corazones siempre alegres",
+    "versos": [
+	{"1": "Corazones siempre alegres,<br/>Rebosando gratitud,<br/>Somos los que a Dios amamos,<br/>Redimida juventud."},
+	{"coro": "Siempre alegres Vamos todos,<br/>Llenos de felicidad;<br/>Hermosísimo es el camino,<br/>Hacía la eternidad,"},
+	{"2": "Dios nos guía de la mano;<br/>Nos ampara su poder;<br/>Es su brazo poderoso<br/>Y nos quiere defender."},
+	{"3": "Si en la lucha desmayamos<br/>O nos sitia la maldad,<br/>Con su gracia nos anima,<br/>Nos levanta su bondad."},
+	{"4": "Con sus fuerzas llevaremos<br/>Muy gozosos nuestra cruz;<br/>Victoriosos cantaremos<br/>En la gloria de su luz."}
+	],
+    "letra": "J.A. Reitz",
+    "inspiracion": "Salmos 32:8",
+    "musica": "Victor Riveros",
+    "imagen": "imagenes/himnos/273.jpg"
+}}

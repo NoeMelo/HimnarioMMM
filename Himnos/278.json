@@ -1,0 +1,14 @@
+{
+    "himno": 278,
+    "titulo": "Contendamos, Jóvenes",
+    "versos": [
+	{"1": "Contendamos, jóvenes, por la fe,<br/>Aunque brame el mundo con Satanás;<br/>En la lucha nunca nos vencerán,<br/>Pues Jesús nos guardará."},
+	{"coro" :"Si sufrimos aquí, reinaremos allí<br/>En la gloria celestial,<br/>Si llevamos la cruz por amor de Jesús,<br/>La corona El nos dará."},
+	{"2": "No seamos tibios de corazón,<br/>Ni dejemos nunca el primer amor;<br/>Mantengamos firme la profesión<br/>De la fe en el Salvador."},
+	{"3": "Procuremos todos la santidad,<br/>Sin la cual ninguno verá al Señor;<br/>Gozo, paz y eterna felicidad<br/>Cristo ofrece al vencedor."}
+	],
+    "letra": "Turrall, Henry",
+    "inspiracion": "",
+    "musica": "Doane, William H.",
+    "imagen": "imagenes/himnos/278.jpg"
+}
