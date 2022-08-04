@@ -1,0 +1,15 @@
+{
+    "himno": 261,
+    "titulo": "La venida de Cristo",
+    "versos": [
+	{"1": "La venida de Cristo se acerca<br/>Pronto viene su iglesia a buscar<br/>No durmamos, estemos alertas<br/>¡Vigilad, vigilad, vigilad!"},
+	{"coro": "Pronto viene Jesús y nos lleva<br/>A la hermosa mansión celestial<br/>Pronto viene Jesús a la tierra<br/>Nos iremos con Él a gozar"},
+	{"2": "Si queremos que Cristo nos lleve<br/>A los cielos con Él a reinar<br/>No seamos jamás negligentes<br/>¡Trabajad, trabajad, trabajad!"},
+	{"3": "Arreglemos, estemos a cuenta<br/>Con Jesús, el Cordero inmortal<br/>Del que ofende tengamos<br/>clemencia:<br/>¡Perdonad, perdonad, perdonad!"},
+	{"4": "Perdonando, Jesús nos perdona<br/>Y a los ciegos los lleva a reinar<br/>Ganaremos también la corona<br/>¡Vigilad, trabajad, perdonad!"}
+	],
+    "letra": " Santiago Stevenson",
+    "inspiracion": "",
+    "musica": "Melodía Chilena",
+    "imagen": "imagenes/himnos/261.jpg"
+}

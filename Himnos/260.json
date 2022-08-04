@@ -1,0 +1,14 @@
+{
+    "himno": 260,
+    "titulo": "¡Oh, que tuviera lenguas mil!",
+    "versos": [
+	{"1": "¡Oh, que tuviera lenguas mil<br/>Del redentor cantar<br/>La gloria de mi Dios y Rey,<br/>Los triunfos de su amor!"},
+	{"2": "Bendito mi Señor y Dios,<br/>Te quiero proclamar;<br/>Decir al mundo en derredor<br/>Tu nombre sin igual."},
+	{"3": "Dulce es tu nombre para mí,<br/>Pues quita mi temor;<br/>Encuentra en él salud y paz<br/>El pobre pecador."},
+	{"4": "Rompe cadenas del pecar,<br/>Al preso librará;<br/>Su sangre limpia al ser más vil,<br/>¡Gloria a Dios, soy limpio ya!"}
+	],
+    "letra": "Wesley, Charles",
+    "inspiracion": "",
+    "musica": "Glaser, Carl G.",
+    "imagen": "imagenes/himnos/260.jpg"
+}

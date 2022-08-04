@@ -1,0 +1,14 @@
+{
+    "himno": 266,
+    "titulo": "El Evangelio Santo",
+    "versos": [
+	{"1": "El evangelio santo<br/>Anuncia al pecador<br/>Que Dios al mundo amó<br/>Y diole un Salvador."},
+	{"coro": "Y quien en Cristo creerá<br/>De vida eterna gozará,<br/>De vida eterna gozará."},
+	{"2": "Aquel que peca muere,<br/>Así Dios sentenció.<br/>Mas Cristo, por amor,<br/>Su propia vida dio."},
+	{"3": "El Salvador del mundo<br/>No vino a condenar;<br/>Mas vino por su cruz<br/>Los hombres a salvar."}
+	],
+    "letra": "J. Garriga",
+    "inspiracion": "",
+    "musica": "J. McGranahan",
+    "imagen": "imagenes/himnos/266.jpg"
+}

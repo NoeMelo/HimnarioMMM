@@ -1,0 +1,14 @@
+{
+    "himno": 262,
+    "titulo": "Confió en Dios",
+    "versos": [
+	{"1": "Confió en dios, no importa donde<br/>este;<br/>En alta mar o en tierra tengo fe.<br/>Si vienen pruebas y dolor,<br/><br/>Mi amante dios me cuida con su<br/>amor."},
+	{"coro": "Confió en dios, yo sé que me ama<br/>él;<br/>En la furiosa lid es mi broquel.<br/>Si olas rugen con furor,<br/>Mi amante dios me cuida con su<br/>amor."},
+	{"2": "Confió en dios, la siempre paz me<br/>da.<br/>En las tinieblas a mi lado esta.<br/>Conforta el alma y da valor,<br/>Mi amante dios me cuida con su<br/>amor."},
+	{"3": "Confió en Dios; nada me faltará;<br/>En su bondad me pastoreará;<br/>El quitará todo temor;<br/>Mi amante Dios me cuida con su<br/>amor."}
+	],
+    "letra": "W. C. martín",
+    "inspiracion": "",
+    "musica": "Charles H. Gabriel",
+    "imagen": "imagenes/himnos/262.jpg"
+}
