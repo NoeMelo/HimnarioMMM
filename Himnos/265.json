@@ -1,0 +1,12 @@
+{
+    "himno": 265,
+    "titulo": "Padre nuestro",
+    "versos": [
+	{"1": "Padre nuestro que estás en los<br/>cielos;<br/>Santificado sea tu nombre<br/>Venga tu reino;<br/>Tu voluntad sea hecha<br/>En el cielo y en la tierra."},
+	{"2": "Danos hoy nuestro pan de cada<br/>día;<br/>Y perdonanos nuestras deudas;<br/>Como también nosotros<br/>perdonamos;<br/>No nos dejes caer en tentaciones;<br/>Mas libranos del mal:<br/>Porque tuyo es el reino;<br/>El poder y la gloria<br/>Por siempre. Amén."}
+	],
+    "letra": "Albert Hay Malotte",
+    "inspiracion": "Mateo 6:9-13",
+    "musica": "A. H. Malotte",
+    "imagen": "imagenes/himnos/265.jpg"
+}
