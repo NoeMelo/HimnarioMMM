@@ -1,0 +1,13 @@
+{
+    "himno": 256,
+    "titulo": "El mundo entero es del Padre celestial",
+    "versos": [
+	{"1": "El mundo entero es del Padre celestial;<br/>Su alabanza en la creación escucho resonar.<br/>¡De Dios el mundo es! ¡Qué grato es recordar<br/>Que en el autor de tanto bien podemos descansar!"},
+	{"2": "El mundo entero es del Padre celestial;<br/>El pájaro, la luz, la flor proclaman Su bondad.<br/>¡De Dios el mundo es! El fruto de Su acción<br/>Se muestra con esplendidez en toda la expansión."},
+	{"3": "El mundo entero es del Padre celestial;<br/>Y nada habrá de detener Su triunfo sobre el mal.<br/>¡De Dios el mundo es! Confiada mi alma está,<br/>Pues Dios en Cristo, nuestro Rey, por siempre reinará."}
+	],
+    "letra": "Maltbie Babcack",
+    "inspiracion": "Juan 1:3",
+    "musica": "Franklin L. Sheppard",
+    "imagen": "imagenes/himnos/256.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "himno": 255,
+    "titulo": "Dad loor a Dios",
+    "versos": [
+	{"1": "Dad loor a dios, himnos elevad<br/>Alabando su bondad;<br/>Canta de Jesús, pobre pecador,<br/>Canta sí, su gran amor.<br/>Jesucristo descendió<br/>De los cielos a belén,<br/>Nuestra paz allí nació;<br/>Nuestra dicha, luz y bien."},
+	{"coro": "¡Oh, bendito dios!<br/>Gloria a ti, Señor,<br/>Por Jesús, el salvador."},
+	{"2": "Por venir a padecer<br/>A los ángeles dejó.<br/>Y nacido de mujer<br/>con los hombre habitó."},
+	{"3": "En la cruz; martirio cruel,<br/>Dio su vida el Salvador<br/>Porque tenga paz en él<br/>Todo pobre pecador."}
+	],
+    "letra": "Pedro C. Iriarte",
+    "inspiracion": "Salmos 95:1",
+    "musica": "Anónimo",
+    "imagen": "imagenes/himnos/255.jpg"
+}
