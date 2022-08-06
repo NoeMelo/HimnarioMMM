@@ -1,0 +1,13 @@
+{
+    "himno": 248,
+    "titulo": "Su gracia es mayor",
+    "versos": [
+	{"1": "Su gracia es mayor si las cargas aumentan, <br/>Su fuerza es mayor si la lucha es más cruel, <br/>Si más son las penas, mayor es su gracia, <br/>Si más son las cargas, mayor es su paz."},
+	{"coro": "Su amor no termina, su gracia no acaba, <br/>Un límite no hay al poder de Jesús, <br/>Pues de sus inmensas riquezas en gloria <br/>Abundan sus dones, abunda su amor."},
+	{"2": "Si nuestros recursos se habrán agotado, <br/> Si fuerzas nos faltan para caminar, <br/>Si a punto ya estamos de desanimarnos <br/>El tiempo ha llegado en que Dios obrará."}
+	],
+    "letra": "H. Reza. Trad.",
+    "inspiracion": "",
+    "musica": "Hubert Mitchell",
+    "imagen": "imagenes/himnos/248.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "himno": 250,
+    "titulo": "Tal como soy",
+    "versos": [
+	{"1": "Tal como soy de pecador <br/>Sin más confianza que tu amor <br/>Ya que me llamas vengo a ti <br/>Cordero de Dios heme aquí."},
+	{"2": "Tal como soy buscando paz <br/>En mi desdicha y mal tenaz <br/>Conflicto grande siento en mí <br/>Cordero de Dios heme aquí."},
+	{"3": "Tal como soy me acogerás <br/>Perdón y alivio me darás <br/>Pues tu promesa ya creí <br/>Cordero de Dios heme aquí."},
+	{"4": "Tal como soy tu compasión <br/>Vencido a toda oposición <br/>Ya pertenezco solo a ti <br/>Cordero de Dios heme aquí."}
+	],
+    "letra": "Trad. T. M. Westrup",
+    "inspiracion": "",
+    "musica": "William B. Bradbury",
+    "imagen": "imagenes/himnos/250.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "himno": 252,
+    "titulo": "En la vergonosa cruz",
+    "versos": [
+	{"1": "En la vergonzosa cruz <br/>padeció por mí Jesús; <br/>por la sangre que vertió, <br/>mis pecados Él expió. <br/>Lavará de todo mal <br/>ese rojo manantial, <br/>el que abrió por mí Jesús <br/>en la vergonzosa cruz."},
+	{"coro": "Sí, fue por mí. Sí, fue por mí; <br/>Si por mí; murió Jesús <br/>En la vergonzosa cruz."},
+	{"2": "¡Oh, qué amor! ¡qué inmenso amor <br/>Reveló mi Salvador! <br/>La maldad que hice yo, <br/>Al suplicio le llevó. <br/>Ahora a Ti mi todo doy, <br/>Cuerpo y alma tuyo soy; <br/>Mientras permanezca aquí, <br/>Hazme siempre fiel a Ti."},
+	{"3": "Yo de Cristo sólo soy, <br/>A seguirle presto estoy. <br/>Al bendito Redentor <br/>Serviré con firme amor; <br/>Sea mi alma ya su hogar, <br/>Y mi corazón su altar. <br/>Vida emana, paz y luz, <br/>Del Calvario, de la cruz."}
+	],
+    "letra": "Desconocido",
+    "inspiracion": "! Corintios 15:3",
+    "musica": "Desconocido",
+    "imagen": "imagenes/himnos/252.jpg"
+}
