@@ -1,0 +1,14 @@
+{
+	"himno": 56,
+	"titulo": "El hijo pròdigo",
+	"versos": [
+	{"1": "Ven, ¡Oh pródigo!, ven sin tardar, te llama Dios, <br/> Óyele llamando, llamándote a ti; <br/> Tú que vagas errante, escucha su tierna voz, <br/> Escucha su voz de amor."},
+	{"coro": "Lla...mando por ti <br/> Perdí...do pródigo ven. <br/> Lla...mando por ti, <br/> Perdido prodigo ven."},
+	{"2": "Con paciencia y ternura te llaman, ven a El; <br/> Óyele llamando, llamándote a ti; <br/> Mientras Él te llama, ven: <br/> no seas infiel, <br/> Escucha su voz de amor."},
+	{"3": "De tu Padre en la casa abundancia hay de pan, <br/> Óyele llamando, llamándote a ti; <br/> Ya la mesa está lista, la bienvenida dan, <br/> Escucha su voz de amor."}
+	],
+	"letra": "Pedro Grado",
+	"inspiracion": "Lucas 15: 11-32",
+	"musica": "Chas. H. Gabriel",
+	"imagen": "imagenes/himnos/56.jpg"
+}

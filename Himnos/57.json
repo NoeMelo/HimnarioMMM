@@ -1,0 +1,15 @@
+{
+	"himno": 57,
+	"titulo": "El que ha de venir, vendrà",
+	"versos": [
+	{"1": "Al rayar el alba tal vez venga Cristo <br/> Con aclamación y con voz de arcángel; <br/> Levanta los muertos, transforma los vivos, <br/> A los suyos Él viene a llevar."},
+	{"coro": "¿Hasta cuándo? Señor Jesús, <br/> ¿Hasta cuándo vendrás? <br/> Cristo viene, aleluya, aleluya, amén; <br/> Aleluya, amén."},
+	{"2": "Quizás Él vendrá cuando el día fenezca, <br/> Quizás en la noche su gloria aparezca. <br/> ¡Valor, pues!, ¡hermanos!, y estemos de espera; <br/> A los suyos Él viene a llevar."},
+	{"3": "Su magnificencia y gloria veremos, <br/> El mundo, el pecado, hermanos dejemos; <br/> Así, con gran gozo, le recibiremos <br/> Cuando Cristo nos viene a llevar."},
+    {"coro": "El que ha de venir vendrá, <br/> Y no tardará. <br/> Viene presto, aleluya, aleluya, amén; <br/> Aleluya, amén."}
+	],
+	"letra": "Enrique Turrall, Tr.",
+	"inspiracion": "Hebreos 10:37",
+	"musica": "James McGranahan",
+	"imagen": "imagenes/himnos/57.jpg"
+}

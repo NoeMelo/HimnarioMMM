@@ -1,0 +1,14 @@
+{
+	"himno": 47,
+	"titulo": "Soldados de Cristo",
+	"versos": [
+	{"1": "Soldados de Cristo que estáis en la lid; <br/> Luchad sin desmayo, pelead con valor; <br/> Seguid adelante y luchando decid: <br/> ¡Rendíos a Cristo, Él es el Señor!"},
+	{"coro": "¡Oh! Jóvenes, niños y ancianos, marchad, <br/> Llevando en las manos las armas de luz; <br/> Las almas perdidas con celo buscad, <br/> Y presto llevadlas a Cristo Jesús."},
+	{"2": "Pelead, ¡Oh cristianos!, la causa es de Dios, <br/> Seguid adelante, luchad por Jesús, <br/> Sed siempre valientes y alzad vuestra voz, <br/> Diciendo que Cristo murió en una cruz."},
+	{"3": "La aurora se acerca del día final <br/> En que han de premiarse la fe y el valor, <br/> Entonces Jesús, galardón celestial, <br/> Dará a los que al mundo anunciaron su amor"}
+	],
+	"letra": "E. Martínez Garza",
+	"inspiracion": "1 Samuel 17: 1-58",
+	"musica": "Geo. C. Stebbins",
+	"imagen": "imagenes/himnos/47.jpg"
+}

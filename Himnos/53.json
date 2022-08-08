@@ -1,0 +1,15 @@
+{
+	"himno": 53,
+	"titulo": "El nombre de Jesús",
+	"versos": [
+	{"1": "¡Tan dulce el nombre de Jesús! <br/> Sus bellas notas al cantar; <br/> Que mi alma llena al proclamar <br/> ¡El nombre de Jesús!"},
+	{"coro": "Cristo ¡Oh, qué dulce es! <br/> Cristo, para siempre es; <br/> Cristo, yo te aclamaré, <br/> Por siempre, ¡Oh mi Cristo!"},
+	{"2": "Adoro el nombre de Jesús; <br/> Jamás me faltará su amor; <br/> Y pone aparte mi dolor <br/> ¡El nombre de Jesús!"},
+	{"3": "Tan puro el nombre de Jesús, <br/> Que mi pesar pudo quitar, <br/> Y grata paz a mi alma dar, <br/> ¡El nombre de Jesús!"},
+    {"4": "El dulce nombre de Jesús <br/> Por siempre quiero alabar, <br/> Y todos deben ensalzar, <br/> ¡El dulce nombre de Jesús!"}
+	],
+	"letra": "A Mejía",
+	"inspiracion": "Hechos 4: 12",
+	"musica": "E.S. Lorenz",
+	"imagen": "imagenes/himnos/53.jpg"
+}

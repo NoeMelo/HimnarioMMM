@@ -1,0 +1,14 @@
+{
+	"himno": 58,
+	"titulo": "Estad por Cristo firmes",
+	"versos": [
+	{"1": "¡Estad por Cristo firmes, <br/> Soldados de la cruz! <br/> Alzad hoy la bandera, <br/> En nombre de Jesús; <br/> Es nuestra la victoria, <br/> Con Él por Capitán; <br/> Por Él serán vencidas <br/> Las huestes de Satán."},
+	{"2": "¡Estad por Cristo firmes! <br/> Hoy llama a la lid; <br/> ¡Con Él, pues, a la lucha, <br/> ¡Soldados todos, id! <br/> Probad que sois valientes, <br/> Luchando contra el mal; <br/> Si es fuerte el enemigo, <br/> Jesús es sin igual."},
+	{"3": "¡Estad por Cristo firmes! <br/> Las fuerzas son de Él; <br/> El brazo de los hombres <br/> Por débil no es fiel. <br/> Vestíos la armadura, <br/> Velad en oración; <br/> Deberes y peligros <br/> Demandan más tesón."},
+    {"4": "¡Estad por Cristo firmes! <br/> Bien poco durarán <br/> La lucha y la batalla; <br/> Victoria viene ya. <br/> A todo el que venciere <br/> Corona se dará <br/> Y con el Rey de gloria, <br/> Por siempre vivirá"}
+	],
+	"letra": "George Duffield",
+	"inspiracion": "Efesios 6: 10-20",
+	"musica": "George J. Webb.",
+	"imagen": "imagenes/himnos/58.jpg"
+}

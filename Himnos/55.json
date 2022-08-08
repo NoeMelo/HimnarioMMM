@@ -1,0 +1,14 @@
+{
+	"himno": 55,
+	"titulo": "El gran dìa del juicio",
+	"versos": [
+	{"1": "Soñé que el gran día del juicio <br/> Llegó, y sonó el clarín; <br/> Soñé ver los pueblos reunidos <br/> Para oír de su suerte sin fin; <br/> Del cielo bajó un gran ángel, <br/> Y, parado en tierra y mar, <br/> Juró con su diestra alzada <br/> Que el tiempo ya no más será."},
+	{"coro": "Con llanto y duelo entonces <br/> Los perdidos su cuenta darán, <br/> //Clamarán a las rocas: \"Cubridnos\" <br/> Orarán pero tarde será.//"},
+	{"2": "El rico llegó, mas su oro <br/> Se fue y se desvaneció; <br/> Cual pobre paróse ante el trono, <br/> De sus deudas a Dios se acordó; <br/> El grande, también, más la muerte <br/> Le había quitado su honor; <br/> Y el ángel, abriendo los libros, <br/> No halló nada en su favor."},
+	{"3": "Vino el moralista al juicio, <br/> Mas vana fue su pretensión; <br/> También los que a Cristo mataron, <br/> Hicieron moral profesión; <br/> Y el alma que daba la excusa: <br/> \"-Hoy no, otro día mejor-\" <br/> Halló que por siglos eternos <br/> Sufriría por su gran error."}
+	],
+	"letra": "Desconocido",
+	"inspiracion": "Apocalipsis 20: 11-15",
+	"musica": "Arr. Thoro Harris",
+	"imagen": "imagenes/himnos/55.jpg"
+}

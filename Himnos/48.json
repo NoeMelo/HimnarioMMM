@@ -1,0 +1,15 @@
+{
+	"himno": 48,
+	"titulo": "En la mañana",
+	"versos": [
+	{"1": "En el mundo la Iglesia <br/> Peregrina ha de estar; <br/> Anhelante ella espera <br/> Su feliz, eterno hogar."},
+	{"coro": "//Nos veremos, pronto en Gloria// <br/> Nos veremos en la tierra más allá; <br/> //Nos veremos, pronto en Gloria// <br/> Junto al río cristalino más allá."},
+	{"2": "Nada aquí es permanente, <br/> Todo ha de terminar; <br/> Mas miremos adelante, <br/> En el cielo nuestro hogar."},
+	{"3": "Las familias en la Tierra, <br/> Se desunen al morir; <br/> Mas esperan la mañana <br/> En que se han de reunir."},
+    {"4": "Con Jesús cual unos reyes, <br/> Pronto habremos de estar; <br/> Juntos, miles de millares, <br/> Con Jesús para morar."}
+	],
+	"letra": "H. C. Ball",
+	"inspiracion": "Hebreos 11: 10",
+	"musica": "I.G. Martin",
+	"imagen": "imagenes/himnos/48.jpg"
+}
