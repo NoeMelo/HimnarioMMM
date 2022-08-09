@@ -1,0 +1,14 @@
+{
+    "himno": 257,
+    "titulo": "Jesús Es La Lu Del Mundo",
+    "versos": [
+	{"1": "El mundo perdido en pecado se vio:<br/>¡Jesús es la luz del mundo!<br/>Mas en las tinieblas la gloria brilló,<br/>¡Jesús es la luz del mundo!"},
+	{"coro": "¡Ven a la luz, no quieres perder<br/>Gozo perfecto al amanecer!<br/>Yo ciego fui, mas ya puedo ver<br/>¡Jesús es la luz del mundo!"},
+	{"2": "En día la noche se cambia con Él<br/>¡Jesús es la luz del mundo!<br/>Irás en la luz si a su ley eres fiel,<br/>¡Jesús es la luz del mundo!"},
+	{"3": "Ni soles ni lunas el cielo tendrá,<br/>¡Jesús es la luz del mundo!<br/>La luz de su rostro lo iluminará,<br/>¡Jesús es la luz del mundo!"}
+	],
+    "letra": "H. C. Thompson",
+    "inspiracion": "Efesios 5:14",
+    "musica": "P. P. Bliss",
+    "imagen": "imagenes/himnos/257.jpg"
+}
