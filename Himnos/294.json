@@ -1,0 +1,14 @@
+{
+    "himno": 294,
+    "titulo": "La creación",
+    "versos": [
+    {"1": "Dios ha hecho todo lo que el ojo ve; <br/> Cada cosa de este mundo terrenal. <br/> Todo árbol y las plantas son de Él. <br/> Las estrellas y el manto Celestial."},
+    {"coro":"'!Sea ya la luz'! ordenó Jehová <br/> Con su fuerte voz, y la luz fue ya. <br/> Hoy el buen Jesús, nuestro Redentor, <br/> Brinda al mundo luz con excelso amor."},
+    {"2":"A su imagen Dios formó al hombre Adán, <br/> Luego hizo una mujer tomada de él; <br/> Y los colocó en el Jardín de Edén, <br/> Donde habían de seguirle siempre fiel."},
+    {"3":"El perfecto gozo había en el Edén, <br/> Ellos se gozaban al andar con Dios, <br/> Comunión completa había allá también <br/> Al oir de Jehová la tierna voz."}
+    ],
+    "letra": "Arr. Robert C. Savage",
+    "inspiracion": "Genesis 1:1",
+    "musica": "José J. Naula Yupanqui",
+    "imagen": "imagenes/himnos/294.jpg"
+}
