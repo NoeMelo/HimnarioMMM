@@ -1,0 +1,15 @@
+{
+    "himno": 267,
+    "titulo": "Dondequiera con Jesús",
+    "versos": [
+	{"1": "A cualquiera parte sin temor ire<br/>Si jesus dirige mi inseguro pie;<br/>Sin su compañia todo es pavor,<br/>Mas si el me guia no tendre temor."},
+	{"coro": "Con jesus, por doquier, sin temor ire;<br/>Si jesus me guia nada temere."},
+	{"2": "Con jesus por guia donde quiera voy;<br/>Caminando en pos de el seguro estoy,<br/>Y aunque padre y madre me puedan faltar,<br/>Jesucristo nunca me abandonara."},
+	{"3": "Dondequiera con jesus, en tierra y mar,<br/>Quiero ser su fiel testigo sin cesar:<br/>Y si por desierto mi camino va,<br/>Un seguro albergue mi jesus sera."},
+	{"4": "Dondequiera paso yo la noche atroz,<br/>Porque siempre oigo su benigna voz,<br/>El de dia y noche a mi lado esta,<br/>Y en plena gloria me despertara."}
+	],
+    "letra": "Jessie H. Brown",
+    "inspiracion": "Salmos 91",
+    "musica": "D. B. Towner",
+    "imagen": "imagenes/himnos/267.jpg"
+}

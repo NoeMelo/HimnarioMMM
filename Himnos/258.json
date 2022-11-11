@@ -1,0 +1,15 @@
+{
+    "himno": 258,
+    "titulo": "Un dia que el cielo sus glorias cantaba",
+    "versos": [
+	{"1": "Un día que el cielo sus glorias cantaba,<br/>Un día que el mal imperaba más cruel;<br/>Descendió Cristo y nació de una virgen,<br/>Y aquí morando mi ejemplo fue El."},
+	{"coro": "Vivo, me amaba, muerto, salvóme;<br/>Y en el sepulcro mi mal enterró;<br/>Resucitado, es mi eterna justicia,<br/>Un día El viene, pues lo prometió."},
+	{"2": "Un día lleváronle al monte Calvario,<br/>Un día enclaváronle sobre una<br/>cruz;<br/>Sufriendo dolores y pena de<br/>muerte,<br/>Expiando el pecado, salvome<br/>Jesús."},
+	{"3": "Un día la tumba ocultarle no pudo;<br/>un día el ángel la piedra quitó;<br/>Habiendo Jesús ya a la muerte<br/>vencido;<br/>Al estar con su Padre en su trono<br/>ascendió."},
+	{"4": "Un día otra ve viene con vo de<br/>arcángel,<br/>Un día en su gloria el Señor<br/>brillará;<br/>¡Oh día admirable, en que unido su<br/>pueblo,<br/>Loores a Cristo por siempre dará!"}
+	],
+    "letra": "J. WillburChapman",
+    "inspiracion": "Gálatas 4:4",
+    "musica": "Charles H. Marsh",
+    "imagen": "imagenes/himnos/258.jpg"
+}

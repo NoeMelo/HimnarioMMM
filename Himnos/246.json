@@ -1,0 +1,14 @@
+{
+    "himno": 246,
+    "titulo": "Con gran gozo y placer",
+    "versos": [
+	{"1": "Con gran gozo y placer <br/>nos volvemos hoy a ver; <br/>nuestras manos otra vez <br/>estrechamos. <br/>Se contenta el corazón, <br/>ensanchándose de amor. <br/>Todos a una voz a Dios <br/>gracias damos."},
+	{"coro": "¡Bienvenido!  ¡Bienvenido! <br/>Los hermanos hoy aquí <br/>nos gozamos en decir: <br/>¡Bienvenido!  ¡Bienvenido! <br/>Al volvernos a reunir, <br/>¡bienvenido!"},
+	{"2": "Hasta aquí Dios te ayudó, <br/> ni un momento te dejó, <br/>y a nosotros te volvió: <br/>¡Bienvenido! <br/>El Señor te acompañó, <br/>su presencia te amparó, <br/>del peligro te guardó: <br/>¡Bienvenido!"},
+	{"3": "Dios nos guarde en este amor, <br/>para que de corazón, <br/>consagrados al Señor, <br/>le alabemos. <br/>En la eterna reunión, <br/>do no habrá separación, <br/>ni tristeza, ni aflicción: <br/>¡Bienvenido!"}
+	],
+    "letra": "E. Turral",
+    "inspiracion": "",
+    "musica": "J. B. Murry",
+    "imagen": "imagenes/himnos/246.jpg"
+}

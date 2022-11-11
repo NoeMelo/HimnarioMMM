@@ -1,0 +1,15 @@
+{
+    "himno": 254,
+    "titulo": "Grato es contar la historia",
+    "versos": [
+	{"1": "Grato es contar la historia<br/>Del celestial favor,<br/>De Cristo y de su gloria,<br/>De Cristo y de su amor.<br/>Me agrada referirla,<br/>Pues sé que es la verdad;<br/>Y nada satisface cual ella mi ansiedad."},
+	{"coro": "¡Cuán bella es esa historia!<br/>Mi tema de victoria<br/>Es esta antigua historia<br/>De Cristo y de su amor."},
+	{"2": "Grato es contar la historia<br/>que ayuda al mortal;<br/>Que en glorias y portentos<br/>No reconoce igual;<br/>Me agrada referirla,<br/>Pues me hace mucho bien:<br/>Por eso a ti deseo<br/>Decírtela también."},
+	{"3": "Grato es contar la historia<br/>Que antigua, sin vejez,<br/>Parece al repetirla<br/>Más dulce cada vez;<br/>Me agrada referirla,<br/>Pues hay quien nunca oyó,<br/>Que para hacerle salvo <br/>El buen Jesús murió."},
+	{"4": "Grato es contar la historia;<br/>El que la sabe ya,<br/>Parece que de oírla<br/>Sediento aún está.<br/>Y cuando el nuevo canto<br/>En gloria entonaré,<br/>Será la antigua historia<br/>Que en vida tanto amé."}
+	],
+    "letra": "J. B. Cabrera",
+    "inspiracion": "Salmos 66:16",
+    "musica": "William G. Fisher",
+    "imagen": "imagenes/himnos/254.jpg"
+}
