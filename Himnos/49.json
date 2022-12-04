@@ -1,0 +1,14 @@
+{
+	"himno": 49,
+	"titulo": "Él cuidarà de mí",
+	"versos": [
+	{"1": "¿Cómo podré estar triste, <br/> Cómo entre sombras ir; <br/> Cómo sentirme sólo <br/> Y en el dolor vivir? <br/> Si Cristo es mi consuelo, <br/> Mi amigo siempre fiel, <br/> //Si aún las aves tienen, <br/> Seguro asilo en Él//"},
+	{"coro": "Feliz cantando alegre, <br/> Yo vivo siempre aquí. <br/> //Si Él cuida de las aves, <br/> ¡Cuidará también de mí!//"},
+	{"2": "\"Nunca te desalientes\", <br/> Oigo al Señor decir, <br/> Y en su Palabra fiado, <br/> Hago al dolor huir, <br/> A Cristo paso a paso <br/> Yo sigo sin cesar, <br/> //Y todas sus bondades <br/> Me da sin limitar.//"},
+	{"3": "Siempre que soy tentado <br/> O que en la sombra estoy, <br/> Más cerca de Él camino <br/> Y protegido voy; <br/> Si en mí la fe desmaya, <br/> Y caigo en la ansiedad, <br/> //¡Tan sólo Él me levanta, <br/> Me da seguridad!//"}
+	],
+	"letra": "Civilla Durfee Martín",
+	"inspiracion": "Mateo 6: 25-34",
+	"musica": "Charles Hutchinson G.",
+	"imagen": "imagenes/himnos/49.jpg"
+}

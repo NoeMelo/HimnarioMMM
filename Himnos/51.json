@@ -1,0 +1,15 @@
+{
+	"himno": 51,
+	"titulo": "En la nueva Jerusalèn",
+	"versos": [
+	{"1": "Cuando cesen los conflictos de la vida terrenal <br/> Y dejemos este mundo de aflicción, <br/> Entraremos por las puertas de la patria celestial, <br/> En la nueva Jerusalén."},
+	{"coro": "Cantaremos con los santos <br/> La canción de redención, <br/> En Jerusalén..., en Jerusalén..., <br/> Con acentos de alegría alabando al Salvador, <br/> En la gran Jerusalén."},
+	{"2": "Aunque el mar embravecido <br/> Y las olas del turbión, <br/> Siempre agiten nuestra pobre embarcación, <br/> Fiando en Cristo llegaremos a la patria celestial, <br/> De la nueva Jerusalén."},
+	{"3": "Consagremos nuestras vidas <br/> Al servicio del Señor, <br/> Siempre hablemos de su grande salvación, <br/> Si en su viña trabajamos nos espera galardón, <br/> En la nueva Jerusalén."},
+    {"4": "En aquel país hermoso <br/> Do jamás se dice \"adiós\" <br/> Gozaremos del descanso sin afán; <br/> Cara a cara allá veremos a Jesús, <br/> Quien nos salvó, <br/> En la nueva Jerusalén"}
+	],
+	"letra": "S.D. Athans, Tr.",
+	"inspiracion": "Apocalipsis 21:2",
+	"musica": "C.B Widmeyer",
+	"imagen": "imagenes/himnos/51.jpg"
+}
