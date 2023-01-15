@@ -1,0 +1,15 @@
+{
+	"himno": 45,
+	"titulo": "¿Eres limpio en la Sangre?",
+	"versos": [
+	{"1": "¿Has hallado en Cristo plena salvación, <br/> Por la sangre que Cristo vertió? <br/> Toda mancha lava de tu corazón; <br/> ¿Eres limpio en la sangre eficaz?"},
+	{"coro": "¿Eres limpio en la sangre, <br/> En la sangre de Cristo Jesús? <br/> ¿Es tu corazón más blanco que la nieve? <br/> ¿Eres limpio en la sangre eficaz?"},
+	{"2": "¿Vives siempre al lado de tu Salvador <br/> Por la sangre que Él derramó? <br/> ¿Del pecado eres siempre vencedor? <br/> ¿Eres limpio en la sangre eficaz?"},
+	{"3": "¿Tendrás ropa blanca al venir Jesús? <br/> ¿Eres limpio en la fuente de amor? <br/> ¿Estás listo para la mansión de luz? <br/> ¿Eres limpio en la sangre eficaz?"},
+    {"4": "Cristo ofrece hoy pureza y poder, <br/> ¡Oh, acude a la cruz del Señor! <br/> Él la fuente es que limpiará tu ser, <br/> ¡Oh, acude a su sangre eficaz!"}
+	],
+	"letra": "H.W. Cragin",
+	"inspiracion": "Apocalipsis 12:11",
+	"musica": "Rev. Ellisha A. Hoffman",
+	"imagen": "imagenes/himnos/45.jpg"
+}

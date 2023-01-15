@@ -1,0 +1,14 @@
+{
+	"himno": 50,
+	"titulo": "Es el tiempo de la siega",
+	"versos": [
+	{"1": "Es el tiempo de la siega y tú sin vacilar, <br/> Declarando con holgura: \"no hay que trabajar\"; <br/> Mientras tanto que el Maestro <br/> te vuelve a llamar: <br/> Joven, joven, ven, trabaja ya."},
+	{"coro": "Ven y ve los campos blancos como están, <br/> Aguardando manos que los segarán. <br/> Joven, ¡Despierta! hazlo pronto, y alerta, <br/> Sé el primero en decirle: \"Heme aquí, Señor\". <br/> Por doquier se inclina la madura mies <br/> Que las auras mueven y ¡Qué bella es!; <br/> Joven, ¡Despierta!, hazlo pronto y alerta <br/> Pocos días hay que restan para el segador."},
+	{"2": "Las gavillas que recojas, joyas de esplendor, <br/> Brillarán en la corona que dará el Señor; <br/> Busca pronto eternas joyas, Dios es premiador, <br/> Joven, joven, ven, trabaja ya."},
+	{"3": "Va pasando la mañana, y nunca volverá, <br/> Pronto el tiempo de la siega aquí terminará, <br/> Te hallarás al fin vacío ante tu Creador, <br/> Joven, joven, ven, trabaja ya."}
+	],
+	"letra": "Autor Desconocido",
+	"inspiracion": "Mateo 9: 36-38",
+	"musica": "Chas. H. Gabriel",
+	"imagen": "imagenes/himnos/50.jpg"
+}

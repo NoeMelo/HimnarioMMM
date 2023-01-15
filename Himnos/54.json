@@ -1,0 +1,14 @@
+{
+	"himno": 54,
+	"titulo": "El mundo no es mi hogar",
+	"versos": [
+	{"1": "¡La senda ancha dejaré, <br/> Yo quiero por la angosta andar, <br/> Y muchos no sabrán por qué, <br/> Mas voy a mi celeste hogar!"},
+	{"coro": "//No puede el mundo ser mi hogar//, <br/> En gloria tengo mi mansión; <br/> No puede el mundo ser mi hogar."},
+	{"2": "Algunos quieren verme ir, <br/> Por el sendero de maldad; <br/> Oír no puedo su llamar, <br/> Pues voy a mi celeste hogar."},
+	{"3": "¡Oh, ven conmigo pecador, <br/> Y sigue en pos del Salvador! <br/> ¿Por qué no quieres tú buscar, <br/> La hermosa tierra más allá?"}
+	],
+	"letra": "H.C Ball",
+	"inspiracion": "2 Corintios 5: 1-10",
+	"musica": "Arr. Mrs. Jno. T. Benson",
+	"imagen": "imagenes/himnos/54.jpg"
+}

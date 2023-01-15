@@ -1,0 +1,15 @@
+{
+	"himno": 46,
+	"titulo": "En busca de obreros",
+	"versos": [
+	{"1": "Cristo está buscando obreros hoy <br/> Que quieran ir con Él, <br/> ¿Quién dirá: \"Señor contigo voy, <br/> Yo quiero serte fiel?\""},
+	{"coro": "¡Oh Señor, es mucha la labor, <br/> Y obreros faltan ya; <br/> Danos luz, ardiente fe y valor, <br/> Y obreros siempre habrá!"},
+	{"2": "Cristo quiere mensajeros hoy, <br/> Que anuncien su verdad; <br/> ¿Quién dirá: \"Señor, yo listo estoy, <br/> Haré tu voluntad?\""},
+	{"3": "Hay lugar si quieres trabajar, <br/> De Cristo en la labor; <br/> Puedes de su gloria al mundo hablar, <br/> De su bondad y amor."},
+	{"4": "¿Vives ya salvado por Jesús, <br/> Su amor conoces ya? <br/> ¡Habla, pues, anuncia que en la luz <br/> De Cristo vives ya!"}
+	],
+	"letra": "Civilla Durfee Martin",
+	"inspiracion": "Mateo 11: 36-38",
+	"musica": "J. B. O. Clemm",
+	"imagen": "imagenes/himnos/46.jpg"
+}

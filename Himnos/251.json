@@ -1,0 +1,14 @@
+{
+    "himno": 251,
+    "titulo": "Señor el dia se fue",
+    "versos": [
+	{"1": "Señor Jesús, el día ya se fue; <br/>la noche cierra, oh, conmigo sé; <br/>al desvalido, por tu compasión <br/>dale tu amparo y consolación."},
+	{"2": "Veloz el día nuestro huyendo va, <br/>Su gloria, sus ensueños pasan ya; <br/>mudanza y muerte veo en redor; <br/>no mudas tú: conmigo sé, Señor."},
+	{"3": "Tu gracia en todo el día he menester. <br/>¿Quién otro puede al tentador vencer? <br/>¿Qué otro amante guía encontraré? <br/>En sombra o sol, Señor, conmigo sé."},
+	{"4": "Que vea al fin en mi postrer visión <br/>de luz la senda que me lleve a Sion, <br/>do alegre cantaré al triunfar la fe: <br/>Jesús conmigo en vida y muerte fue."}
+	],
+    "letra": "Esp. Tomás M. Westrup",
+    "inspiracion": "",
+    "musica": "William H. Monk",
+    "imagen": "imagenes/himnos/251.jpg"
+}

@@ -1,0 +1,14 @@
+{
+    "himno": 249,
+    "titulo": "Maravilloso es",
+    "versos": [
+	{"1": "Que grandiosa es la puesta del sol <br/>Admirable cual amanecer <br/>Pero más grandioso y conmovedor <br/>Que me tiene el Señor"},
+	{"coro": "Maravilloso es, <br/>Maravilloso es, <br/> cuando pienso que, <br/>Dios me ama a mí"},
+	{"2": "Maravilla de un sol que se oculta, <br/>maravilla aurora que vi, <br/>maravilla que en mi alma resulta hoy, <br/> cuando pienso que Dios me ama a mí."},
+	{"3": "Que grandioso el verano copioso; <br/>los cielos, la luna y el sol, <br/> pero es más grandioso y conmovedor <br/>el amor que me tiene el Señor <br/>Cuando pienso que Dios me ama a mi. "}
+	],
+    "letra": "Tr. Danle L. Pinto",
+    "inspiracion": "Salmos 98:1",
+    "musica": "George Beverly Shea.",
+    "imagen": "imagenes/himnos/249.jpg"
+}

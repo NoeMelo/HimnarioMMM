@@ -1,0 +1,14 @@
+{
+    "himno": 253,
+    "titulo": "A nuestro Padre Dios",
+    "versos": [
+	{"1": "A nuestro Padre Dios <br/>Alcemos nuestra voz,<br/>¡Gloria al él!<br/>Tal fue su amor que dio<br/>Al Hijo que murió;<br/>Y así nos redimió,<br/>¡Gloria al él!"},
+	{"2": "A nuestro Salvador<br/>Demos con fe loor;<br/>¡Gloria al él!<br/>Su sangre derramó;<br/>Con ella nos lavó,<br/>Y el cielo nos abrió;<br/>¡Gloria al él!"},
+	{"3": "Al fiel Consolador<br/>Celebre nuestra oz;<br/>¡Gloria al él!<br/>Con celestial fulgor<br/>Nos muestras el amorDe Cristo el Señor;<br/>¡Gloria al él!"},
+	{"4": "Con gozo y con amor,<br/>Cantemos con fervor<br/>Al trino Dios. en la eternidad<br/>Mora la Trinidad;<br/>Por siempre alabad<br/>Al Trino Dios. Amén"}
+	],
+    "letra": "Trad. Estrella de Belén",
+    "inspiracion": "Salmos 29:2",
+    "musica": "Henry Carey",
+    "imagen": "imagenes/himnos/253.jpg"
+}

@@ -1,0 +1,15 @@
+{
+	"himno": 52,
+	"titulo": "En medio del mortal dolor",
+	"versos": [
+	{"1": "En medio de mortal dolor, <br/> La cruenta cruz yo vi, <br/> Y allí raudal de gracia hallé, <br/> Bastante para mí."},
+	{"coro": "En la cruz fluye sin cesar, <br/> Insondable cual es el mar, <br/> Esta gracia que brota allí, <br/> Basta para mí."},
+	{"2": "Sufriendo fue mi corazón, <br/> Y apenas pude allí, <br/> Creer que gracia habría de hallar <br/> Bastante para mí."},
+	{"3": "Cuando en la cruz clavadas ya, <br/> Mis culpas yo sentí, <br/> Raudal de gracia a mí entró, <br/> Bastante para mí."},
+    {"4": "Cuando en el cielo con Jesús, <br/> Alegre cante allí, <br/> Diré que aquella gracia fue <br/> Bastante para mí."}
+	],
+	"letra": "V. Mendoza",
+	"inspiracion": "Juan 4: 13, 14",
+	"musica": "E.O. Excell",
+	"imagen": "imagenes/himnos/52.jpg"
+}
