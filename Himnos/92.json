@@ -1,0 +1,15 @@
+{
+    "himno": 92,
+    "titulo": "En el monte Calvario",
+    "versos": [
+    {"1": "En el monte Calvario estaba una cruz, <br/> emblema de afrenta y dolor, <br/> y yo amo esa cruz do murió mi Jesús <br/> por salvar al más vil pecador."},
+    {"coro": "¡Oh! yo siempre amaré a esa cruz, <br/>en sus triunfos mi gloria será; <br/> y algún día en vez de una cruz, <br/> mi Corona Jesús me dará."},
+    {"2": "Y aunque el mundo desprecie la cruz de Jesús, <br/> para mi tiene suma atracción, <br/> pues en ella llevó el Cordero de Dios <br/> de mi alma la condenación."},
+    {"3": "En la cruz de Jesús do su sangre vertió, <br/> hermosura contemplo sin par; <br/> pues en ella triunfante a la muerte venció, <br/> y mi ser puede santificar."},
+    {"4": "Yo seré siempre fiel a la cruz de Jesús, <br/> su oprobio con él llevaré, <br/> y algún día feliz con los santos en luz <br/> para siempre su gloria veré."}
+    ],
+    "letra":"George Benard",    
+    "inspiracion":"",
+    "musica":"George Benard",
+    "imagen":"/imagenes/himnos/92.png"
+}
